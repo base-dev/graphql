@@ -1,7 +1,7 @@
 package ast
 
 import (
-	"github.com/graphql-go/graphql/language/kinds"
+	"github.com/base-dev/graphql/language/kinds"
 )
 
 type Value interface {

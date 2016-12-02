@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/graphql-go/graphql/gqlerrors"
-	"github.com/graphql-go/graphql/language/ast"
+	"github.com/base-dev/graphql/gqlerrors"
+	"github.com/base-dev/graphql/language/ast"
 	"golang.org/x/net/context"
 )
 
